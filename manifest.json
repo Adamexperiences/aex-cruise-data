@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T13:39:08Z",
+  "generated_at": "2026-09-28T13:57:10Z",
   "run_date": "2026-09-28",
   "count": 630,
   "sha256": "5557a1e8bedbd3e8a6118bdd270e84dfcede627c1008bd9ff67e3f9617dde3db",
@@ -8,7 +8,7 @@
   "summary": [
     "Amsterdam: 215 calls on the port site, 0 new, 0 times changed, 0 removed, status ok",
     "Rotterdam: 172 calls on the port site, 0 new, 0 times changed, 0 removed, status ok",
-    "IJmuiden: 0 calls on the port site, 0 new, 0 times changed, 0 removed, status by hand, no new check since 2026-09-28; nothing changed",
+    "IJmuiden: 12 calls on the port site, 0 new, 0 times changed, 0 removed, status ok",
     "Sources disagree: Viking Neptune (flag): Amsterdam port site says 'Noorwegen', existing data says 'Norway'.",
     "Sources disagree: Vista (flag): Amsterdam port site says 'Marshall Eilanden', existing data says 'Marshall Islands'.",
     "Sources disagree: Viking Neptune (flag): Amsterdam port site says 'Noorwegen', existing data says 'Norway'.",
